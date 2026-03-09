@@ -1,3 +1,6 @@
+// screens/manage_questions_screen.dart
+// Admin screen to add/edit/delete questions for a specific quiz
+
 import 'package:flutter/material.dart';
 import '../models/quiz_model.dart';
 import '../models/question_model.dart';
