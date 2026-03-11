@@ -59,3 +59,18 @@ flutter run
 | Flutter can't reach the server           | Check `baseUrl` in `lib/services/api_service.dart`; use `10.0.2.2` for Android emulator instead of `localhost` |
 | `flutter pub get` fails                  | Run `flutter doctor` and ensure SDK and dependencies are installed                                             |
 | Username already taken on register       | Choose a different username; usernames are unique in the database                                              |
+
+
+## Screenshots
+![alt text](<Screenshot 2026-03-11 at 21.45.02.png>)
+![alt text](<Screenshot 2026-03-11 at 21.45.12.png>)
+![alt text](<Screenshot 2026-03-11 at 21.45.53.png>)
+![alt text](<Screenshot 2026-03-11 at 21.45.59.png>)
+![alt text](<Screenshot 2026-03-11 at 21.46.06.png>)
+![alt text](<Screenshot 2026-03-11 at 21.46.13.png>)
+![alt text](<Screenshot 2026-03-11 at 21.46.20.png>)
+![alt text](<Screenshot 2026-03-11 at 21.46.26.png>)
+![alt text](<Screenshot 2026-03-11 at 21.46.33.png>)
+![alt text](<Screenshot 2026-03-11 at 21.46.48.png>)
+![alt text](<Screenshot 2026-03-11 at 21.46.55.png>)
+![alt text](<Screenshot 2026-03-11 at 21.47.06.png>)
